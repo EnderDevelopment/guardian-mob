@@ -1,0 +1,10 @@
+name: MobileMobPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that adds a mobile mob that attacks hostile mobs, villagers, and iron golems when players are near its spawn area.
+api-version: "1.21"
+commands:
+  spawnmobilemob:
+    description: Spawns a mobile mob at your location.
+    usage: /spawnmobilemob
